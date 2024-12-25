@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Your Websites/ Instagram Accounts
 - 📫 How to reach me: nooberthanyall@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: i Ain't got One
+- ⚡ Fun fact: i Got 3 Balls
 
 <!---
 NooberThanYall/NooberThanYall is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

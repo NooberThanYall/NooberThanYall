@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Passionate Web Developer with experience in React, Next.js, and Node.js, building full-stack applications with clean UI/UX. I enjoy creating efficient, scalable, and interactive web apps, and I’m always exploring new technologies. Passionate about coding, problem-solving, and learning. 🚀
+I'm a Passionate Web Developer with experience in Express, Next.js, and Nest.js, building full-stack applications with clean UI/UX. I enjoy creating efficient, scalable, and interactive web apps, and I’m always exploring new technologies. Passionate about coding, problem-solving, and learning. 🚀
 
 
 ## 🌐 Socials:

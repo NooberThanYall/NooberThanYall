@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Passionate Web Developer with experience in Express, Next.js, and Nest.js, building full-stack applications with clean UI/UX. I enjoy creating efficient, scalable, and interactive web apps, and I’m always exploring new technologies. Passionate about coding, problem-solving, and learning. 🚀
+Highly Proficent Backend-Focused Full-Stack Developer with 3+ years of experience building secure, scalable web applications. Skilled in Node.js, Express.js, and NestJS, with solid frontend understanding using React and Next.js. Adept at API design, database modeling, and deployment pipelines, with a strong emphasis on clean architecture and performance optimization. 🚀
 
 
 ## 🌐 Socials:
